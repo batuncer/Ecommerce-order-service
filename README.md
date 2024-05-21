@@ -121,3 +121,23 @@ Once the service is running, you can interact with the API at `http://localhost:
 
 - [Backend Service](https://github.com/batuncer/Ecommercial-Backend)
 - [Frontend Service](https://github.com/batuncer/Ecommercial-Frontend)
+
+## Future Improvements
+
+### Feature Enhancements
+
+- [ ] Implement user profile creation and update functionality.
+
+### Security Enhancements
+
+- [ ] Configure JWT token expiration time to be customizable.
+
+### Testing
+
+- [ ] Add unit tests to increase the reliability of the API.
+- [ ] Create integration tests to validate API behavior in different scenarios.
+
+### General Improvements
+
+- [ ] Utilize linter and formatter tools for code cleanliness.
+- [ ] Regularly update dependencies and stay informed about security vulnerabilities.
